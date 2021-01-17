@@ -1,5 +1,64 @@
 ================
+
 Welcome to M220J
+
+https://university.mongodb.com/courses/M220J/about
+
+MongoDB university courses 
+MongoDB Basics :
+https://university.mongodb.com/courses/M001/about
+
+
+MongoDB for Java Developers
+https://university.mongodb.com/courses/M220J/about
+
+MongoDB Data Modeling
+https://university.mongodb.com/courses/M320/about
+
+MongoDB Performance
+https://university.mongodb.com/courses/M201/about
+
+MongoDB secuirty
+https://university.mongodb.com/courses/M310/about
+
+MongoDB Diagnostics and Debugging
+https://university.mongodb.com/courses/M312/about
+
+The MongoDB Aggregation Framework
+https://university.mongodb.com/courses/M121/about
+
+Basic Cluster Administration
+https://university.mongodb.com/courses/M103/about
+
+MongoDB for SQL Pros
+https://university.mongodb.com/courses/M100/about
+
+
+MongoDB java driver 
+http://mongodb.github.io/mongo-java-driver/3.9/driver/
+
+
+MongoDB docs
+https://docs.mongodb.com/manual/introduction/
+
+MongoDB sharding
+https://docs.mongodb.com/manual/sharding/
+
+mongoDb replication
+https://docs.mongodb.com/manual/replication/
+
+MongoDB indexes
+https://docs.mongodb.com/manual/indexes/
+
+MongoDB Architecture
+https://www.mongodb.com/mongodb-architecture
+WHITE PAPER MongoDB Architecture Guide : https://www.mongodb.com/collateral/mongodb-architecture-guide
+https://info-mongodb-com.s3.us-east-1.amazonaws.com/MongoDB_Architecture_Guide.pdf
+
+
+
+
+
 ================
 
 **Disclaimer:** The dependencies and versions in this project are not
